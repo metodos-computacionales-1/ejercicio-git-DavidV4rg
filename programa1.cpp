@@ -8,5 +8,7 @@ int main(){
     cout << "Ingrese el valr del radio del círculo: ";
     cin >> n;
     
-    cout << "El perimetro es: " << 2*Pi*n<<endl;
+    cout << "El perimetro es: " << 2*Pi*n;
+    cout << "\n"
+    cout << "El área es: "<< Pi*n*n<<endl;
 }
