@@ -12,5 +12,5 @@ int main(){
     cout << "\n"
     cout << "El área es: "<< Pi*n*n;
     cout << "\n"
-    cout << "El diametro es: "<< n*n<<endl;
+    cout << "El diametro es: "<< 2*n<<endl;
 }
